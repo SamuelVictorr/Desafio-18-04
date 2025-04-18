@@ -4,7 +4,7 @@ import datetime
 
 """
 Módulo: gestao_pagamentos.py
-Descrição: Gestão de contas, pagamentos e relatórios para restaurante
+Descrição: Gestão de contas, pagamentos e relatórios para o restaurante
 Única biblioteca utilizada: datetime
 
 """
