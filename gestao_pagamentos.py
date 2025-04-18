@@ -71,7 +71,7 @@ def aplicar_taxa_servico(mesa, percentual=10):
     total_com_taxa = total + taxa
     return total_com_taxa, f"Total com taxa: R${total_com_taxa:.2f}"
 
-# ---------- Funções de Pagamento ----------
+# ---------- funções de pagamento ----------
 def registrar_pagamento(mesa, valor_pago, forma_pagamento, valor_entregue=None):
     #registra o pagamento e fecha a conta
     if mesa not in contas:
