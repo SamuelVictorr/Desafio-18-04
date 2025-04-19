@@ -1,5 +1,5 @@
 # Desafio 18/04
-### Desafio de Humberto sobre um Sistema de Gerenciamento de Restaurante.
+Desafio de Humberto sobre um Gerencialmento de Restaurante.
 
 - O sistema é organizado em três módulos e um arquivo principal(main).
 - O sistema contêm: Gestão de Estoque, Gestão de Cardápio, Gestão de Pedidos e Gestão de Pagamentos para um restaurante comum.
